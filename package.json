@@ -1,8 +1,8 @@
 {
-  "homepage": "https://github.com/vinnyotach7/Graphql-Reactjs-Book-app.git",
-  "name": "Graphql-Reactjs-Book-app",
+  "homepage": "https://github.com/ciamac-da/book-list-fullstack-app-using-graphql-reactjs-expressjs-mongodb#readme",
+  "name": "book-list-fullstack-app-using-graphql-reactjs-expressjs-mongodb",
   "version": "1.0.0",
-  "description": "https://github.com/vinnyotach7/Graphql-Reactjs-Book-app.git/",
+  "description": "https://ciamac-da.github.io/book-list-fullstack-app-using-graphql-reactjs-expressjs-mongodb/",
   "main": "index.js",
   "scripts": {
     "setup": "git submodule init && git submodule update && npm install && npm --prefix client install && npm --prefix server install",
@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vinnyotach7/Graphql-Reactjs-Book-app.git//"
+    "url": "git+https://github.com/ciamac-da/book-list-fullstack-app-using-graphql-reactjs-expressjs-mongodb.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vinnyotach7/Graphql-Reactjs-Book-app.git"
+    "url": "https://github.com/ciamac-da/book-list-fullstack-app-using-graphql-reactjs-expressjs-mongodb/issues"
   },
   "dependencies": {
     "concurrently": "^6.0.0"
